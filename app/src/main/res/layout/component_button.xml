@@ -6,15 +6,15 @@
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/buttonRefresh"
+        android:id="@+id/btnRefresh"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Refresh" />
 
     <ProgressBar
         android:id="@+id/progressBar"
-        android:visibility="gone"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
 
 </LinearLayout>

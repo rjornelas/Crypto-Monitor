@@ -7,7 +7,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textViewBitcoin"
+        android:id="@+id/tvBitcoin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="32sp"
@@ -15,7 +15,7 @@
         tools:text="145,766.73 R$" />
 
     <TextView
-        android:id="@+id/textViewDate"
+        android:id="@+id/tvDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="17/04/23 13:54h" />
